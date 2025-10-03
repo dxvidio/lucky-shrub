@@ -12,5 +12,3 @@ The site is inspired by Apple’s clean aesthetic, with a focus on simplicity, b
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3 (Flexbox / Grid, responsive design)  
-
-## 📂 Structure
